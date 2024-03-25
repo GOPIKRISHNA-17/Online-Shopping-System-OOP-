@@ -1,0 +1,8 @@
+** PRODUCT DETAILS **
+Product Details : 
+
+➤ Product ID: 234  Product Name: loop  Category: Electronics  Price: 567.0
+➤ Product ID: 234  Product Name: dfg  Category: Electronics  Price: 456.0
+➤ Product ID: 345  Product Name: golf  Category: Clothing  Price: 700.0
+➤ Product ID: 345  Product Name: 654  Category: Clothing  Price: 2234.0
+➤ Product ID: 345  Product Name: ert  Category: Electronics  Price: 334.0
